@@ -1,7 +1,6 @@
 <?php
 
-/* @BX(nPhLQMhP)
-- *-k6aj#XD5~)@ht-B9S5A */
+/* @A3rr0r */
 
 error_reporting(E_ALL);
 ini_set('display_errors', '0');
